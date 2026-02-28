@@ -1,4 +1,15 @@
+import React from 'react'
+import Table from'./Table'
+function App(){
+    return(
+        <div>
+            <center><h1>Props and State</h1></center>
+            <Table/>
 
+        </div>
+    )
+}
+export default App;
 
 
 
