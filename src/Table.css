@@ -32,30 +32,30 @@ h1 {
 
 table {
   width: 80%;
-  border-collapse: collapse;
+  border-collapse:separate;
   background-color:azure;
-  border: 1px solid white;
+  border: 10px solid black;
 }
 
 th {
   padding: 15px;
   font-size: 18px;
-  border: 1px solid white;
+  border: 10px solid black;
 }
 
 .props-heading {
-  color:azure;
+  color:black;
 }
 
 .state-heading {
-  color:azure;
+  color:black;
 }
 
 td {
   padding: 15px;
   border: 1px solid black;
   font-size: 15px;
-  color:azure;
+  color:black;
 }
 
 tr:hover {
