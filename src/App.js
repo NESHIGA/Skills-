@@ -1,10 +1,12 @@
 import React from 'react'
-import Table from'./Table'
+import Dynamic from'./Dynamic';
+
 function App(){
     return(
         <div>
-            <center><h1>Props and State</h1></center>
-            <Table/>
+            <center><h1>Form Handling</h1></center>
+            
+            <Dynamic/>
 
         </div>
     )
